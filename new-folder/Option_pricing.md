@@ -1,6 +1,6 @@
 # Enhanced Option Pricing Case study 
 
-This repository provides a comprehensive Python library for option pricing and analysis. It includes multiple methods for pricing options, calculating sensitivities (Greeks), and validating models with real market data. The library also offers visualization tools for sensitivity analysis and option price surfaces.
+This file provides a comprehensive Python library for option pricing and analysis. It includes multiple methods for pricing options, calculating sensitivities (Greeks), and validating models with real market data. The library also offers visualization tools for sensitivity analysis and option price surfaces.
 
 The key functionalities include:
 
